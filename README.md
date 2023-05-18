@@ -1,6 +1,6 @@
 # Hola, soy Denilson Uriel Colli May
 
-Soy un desarrollador web Jr apasionado por la tecnología y el aprendizaje. Me gusta crear soluciones innovadoras y atractivas para la web, usando las mejores prácticas y herramientas disponibles. Tengo experiencia en .Net, .Net Core, Angular y Git.
+Soy un desarrollador web Jr apasionado por la tecnología y el aprendizaje. Me gusta crear soluciones innovadoras y atractivas para la web, usando las mejores prácticas y herramientas disponibles. Tengo experiencia en .Net, .Net Core, SQL Server, PostgresSQL, Angular y Git.
 
 ## Mis contactos
 
